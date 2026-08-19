@@ -1,8 +1,8 @@
 ---
 name: plain-docs
-description: Turn any technical project into plain-language documentation that non-engineers can actually understand. Use when the user asks to "解释项目/写通俗文档/给新人讲懂/写导读/write plain-language docs/make an explainer/onboarding doc"，or when project docs exist but people outside the team can't understand them. Produces a layered doc set (plain guide → diagrams → one-pager) using analogy-first writing, jargon decoding, and honest capability boundaries.
+description: Turn any technical project into plain-language documentation that non-engineers can actually understand. Use when the user asks to "解释项目/写通俗文档/给新人讲懂/写导读/write plain-language docs/make an explainer/onboarding doc"，or when project docs exist but people outside the team can't understand them. Produces a layered doc set (plain guide → diagrams → one-pager) using analogy-first writing, jargon decoding, and honest capability boundaries. Tool-agnostic: works via any agent that can read this file and a codebase.
 metadata:
-  version: "1.0.0"
+  version: "1.0.1"
   date: "2026-08-19"
   license: MIT
   repo: https://github.com/Oliver-onea/plain-docs
