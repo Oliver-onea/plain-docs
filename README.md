@@ -15,10 +15,6 @@
 
 完事。agent 会读仓库、按六步 SOP 产出三件套到 `docs/`。
 
-（想本地常驻也行：把仓库 clone 到你的 agent 的 skill/指令目录——Claude Code
-放 `~/.claude/skills/`，opencode 放 `.opencode/skill/`，其他 agent 放对应
-位置。但这是优化项，不是必须。）
-
 ## 产出什么
 
 | 文件 | 角色 |
